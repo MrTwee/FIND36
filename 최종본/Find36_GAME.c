@@ -253,5 +253,15 @@ void play_game() {
     }
 
     disableRawMode();
-    printf("Congratulations! You've completed the game with a score of %d.\n", score);
+    printf("\n");
+    printf("    ＊  ___                             ＊  \n");
+    printf("       /\\_ \\                 ＊             \n");
+    printf("  ___  \\//\\ \\  ＊   __      __      _ __  \n");
+    printf(" /'___\\  \\ \\ \\    /'__`\\  /'__`\\   /\\`'__\\\n");
+    printf("/\\ \\__/   \\_\\ \\_ /\\  __/ /\\ \\L\\._\\ \\ \\ \\/ \n");
+    printf("\\ \\____\\  /\\____\\\\ \\____\\ \\__/\\_\\ \\ \\_\\ \\ \n");
+    printf(" \\/____/  \\/____/ \\/____/ \\/__/\\/_/  \\/_/ \n");
+    printf("                    ＊                     ＊               \n");
+    printf("          ＊                                 \n");
+    sleep(5);
 }
