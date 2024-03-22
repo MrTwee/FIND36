@@ -1,0 +1,3 @@
+/home/kukusu/IoT3 Project/FIND36/final/build/CMakeFiles/FIND34.dir
+/home/kukusu/IoT3 Project/FIND36/final/build/CMakeFiles/edit_cache.dir
+/home/kukusu/IoT3 Project/FIND36/final/build/CMakeFiles/rebuild_cache.dir

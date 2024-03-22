@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/FIND34.dir/Find36_MAIN.c.o CMakeFiles/FIND34.dir/Find36_GAME.c.o CMakeFiles/FIND34.dir/Find36_UT.c.o -o FIND34 
